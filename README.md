@@ -4,9 +4,13 @@ The Hospital Management System (HMS) is a C++ console-based application designed
 
 # Features
 1.Patient Management: Register new patients, update details, and view patient records.
+
 2.Doctor Management: Maintain a list of doctors with their specialization and availability.
+
 3.Appointment Scheduling: Assign appointment slots to patients with a unique serial number.
+
 4.Billing System: Generate invoices for patient treatments and consultations.
+
 5.User-Friendly Interface: Console-based interactive system for easy navigation.
 
 #  Working procedure
