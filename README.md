@@ -15,9 +15,13 @@ The Hospital Management System (HMS) is a C++ console-based application designed
 
 #  Working procedure
 1.Patient Registration: Enter and store patient details (Name, Age, Contact, Medical History).
+
 2. Doctor Management: View available doctors along with their specializations and availability.
+
 3.Appointment Booking: Assign appointment serial numbers and generate appointment details.
+
 4. Medical Records: Store and retrieve patient treatment history efficiently.
+
 5. Billing & Reports: Generate bills for patient consultations and treatments.
 
 # Technologies Used
